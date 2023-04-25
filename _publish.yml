@@ -1,0 +1,4 @@
+- source: insurance.qmd
+  quarto-pub:
+    - id: 75921ca4-96bf-436f-90b9-e153db6b6e59
+      url: 'https://quartopub.com/sites/prakrast/a-matter-of-life-and-death-7f29'
